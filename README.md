@@ -15,7 +15,7 @@ Dataset
 
 The dataset includes augmented X-ray images categorized into labels such as Normal and Pneumonia. It is preprocessed and split into training, validation, and test sets.
 
-Dataset Location: [Google Drive Link]([https://www.linkedin.com/in/rifhath-aslam-j-791a6a21b/](https://drive.google.com/drive/folders/1kmkWMi8AcTOAhlAvrNDQ-hLCf67GceSx?usp=sharing))
+Dataset Location: ([Google Drive Link](https://drive.google.com/drive/folders/1kmkWMi8AcTOAhlAvrNDQ-hLCf67GceSx?usp=sharing/](https://drive.google.com/drive/folders/1kmkWMi8AcTOAhlAvrNDQ-hLCf67GceSx))
 
 **Technologies and Tools**
 
